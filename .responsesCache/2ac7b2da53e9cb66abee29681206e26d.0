@@ -1,0 +1,17 @@
+http://homey.in.ua/api/categories/?output_format=JSON&display=full
+GET
+0
+HTTP/1.1 200 OK
+12
+Server: nginx/1.12.1
+Date: Thu, 16 Aug 2018 13:38:48 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Time: 1534426728
+X-Powered-By: PrestaShop Webservice
+PSWS-Version: 1.7.3.3
+Execution-Time: 0.032
+Content-Sha1: 4b88416d16ef4ffd899160cf1511fd18f85399bd
+OkHttp-Sent-Millis: 1534426727139
+OkHttp-Received-Millis: 1534426727529

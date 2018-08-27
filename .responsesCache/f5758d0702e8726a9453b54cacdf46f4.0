@@ -1,0 +1,18 @@
+http://homey.in.ua/api/categories/?output_format=JSON&display=full&filter%5Bid_parent%5D=0
+GET
+0
+HTTP/1.1 200 OK
+13
+Server: nginx/1.12.1
+Date: Mon, 13 Aug 2018 18:16:45 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Time: 1534184205
+X-Powered-By: PrestaShop Webservice
+PSWS-Version: 1.7.3.3
+Execution-Time: 0.024
+Content-Sha1: bd18abe858b67d42a91d3f43264d8158a61ed97f
+Set-Cookie: PrestaShop-105d37fa54074742214a008df62d337e=def5020031e9b63f3b85763cf16238fbdab9d9c1f8bbcb305bf7e10be545b604a3a84abed288e735b14fe1c0c40861726000251451d3b431779a0a73e907e150e82f1e1fdad83153c4face62d98dc6a4c72fcab53d8e4fe32fd0c2e2b90779144735ae1d1f3c8d5d6ea185b7b104b88f4ba507988313207f971a10befc9af5dbdddfdb183aa1bd8a604107e3d7112314c0b60c483acb05fc07da0b8cf7c9f7ef9bcd6d; expires=Sun, 02-Sep-2018 18:16:45 GMT; Max-Age=1728000; path=/; domain=homey.in.ua; HttpOnly
+OkHttp-Sent-Millis: 1534184199513
+OkHttp-Received-Millis: 1534184199935
